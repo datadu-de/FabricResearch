@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "48b8a184-39b5-415a-8a08-18b7d1ebbecb",
+    "SchemaName": "dbo",
+    "TableName": "AWBuildVersion",
+    "CheckSum": "2bP/Ch6v7gMmd8VGm+ZxVZgptlAMmhEW4goST/kzX/YKJZe7S1/wrdM/9nKJKPpiLb0nG4dTb+TAB9M2c594HA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "fd029763-43c8-48da-9133-ce51170cabfa": {
+        "IsBinaryType": false,
+        "Value": "2017-10-27 14:33:02.3470000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

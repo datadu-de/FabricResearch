@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "e0e6aa2c-0c1a-4b5b-84fe-a40e7013bcdb",
+    "SchemaName": "HumanResources",
+    "TableName": "EmployeePayHistory",
+    "CheckSum": "1rkdq6/hsz6dnWP6D8I6ut/QVpmhf4gjBh083HJl/VTZk4LSQjr60SznWmBwXFLCIKYrUJ/VLGYHa0cLYgKpGA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "78f9a35a-368e-45f5-aa98-498526460150": {
+        "IsBinaryType": false,
+        "Value": "2014-06-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "cb0f2971-8f09-41dd-9c88-e9051408f532",
+    "SchemaName": "HumanResources",
+    "TableName": "vJobCandidateEducation",
+    "CheckSum": "UgaCT6TCngN1DUL/F5EapMrRS+qWYR3NZEXKoBJsF/T0YyGpt9zztjtB32ISWeOSKKcWXOsaOlenzVpRUxgFGQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

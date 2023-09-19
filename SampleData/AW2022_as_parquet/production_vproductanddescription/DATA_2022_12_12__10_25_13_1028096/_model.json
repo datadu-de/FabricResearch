@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "e4089f8d-d401-421f-afd4-5f6ab06d6ca0",
+    "SchemaName": "Production",
+    "TableName": "vProductAndDescription",
+    "CheckSum": "56LjidNh86hgrlCzavJkhKH8VmyKZ3ECK/RcicRIy8q+HsY7+L+Zi9u0fBzdlVJiohPrP1ZUC4MWc1977VEW0Q=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "e06bc477-68cb-4cca-8556-1720449fdf78",
+    "SchemaName": "Sales",
+    "TableName": "PersonCreditCard",
+    "CheckSum": "ww5CLVnzSCB5QMf82Dpy9l0tMOeWHTYSAQNm8kY9hvmyaI+CQhS9gJgJN22iVbedoln7tPgUehUwtAloxcXjvg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "44281e44-2f43-4cf1-b013-87d74d624ce3": {
+        "IsBinaryType": false,
+        "Value": "2014-06-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "bdb30abd-1896-4b86-8cc2-fc0364787a0b",
+    "SchemaName": "Sales",
+    "TableName": "SalesTerritory",
+    "CheckSum": "J7NBbD4Gcdrv3f1HsGcsfBPcY7ykvbtEHiDiGaT2XS4MUwN38hxq+xJDnU2Yvcu0qEaQeJhOQCpmxb3sc9YE1A=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "6eb2c57b-148c-4aff-9a28-d920a96a9999": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

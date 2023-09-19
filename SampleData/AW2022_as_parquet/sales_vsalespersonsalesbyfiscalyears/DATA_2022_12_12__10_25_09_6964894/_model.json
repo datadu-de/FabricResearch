@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "362afe7f-4519-4414-80c6-95bf5e7866a4",
+    "SchemaName": "Sales",
+    "TableName": "vSalesPersonSalesByFiscalYears",
+    "CheckSum": "UQjOv3c9lucE0/hKePGxKK28V4p9GfTPe8HEZqEV0cx0wHfOe0wOuNxsoZiSNeRyy/spRJ1LIhy7O8+QjHkc3Q=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

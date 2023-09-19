@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "f999b373-afed-4725-9660-f896a21f32d7",
+    "SchemaName": "Person",
+    "TableName": "Person",
+    "CheckSum": "FO7h7Wq9PcVeF5yufW13sld17JoPU8AiOVpJE55HIM+R5O8I5eivJ652BRcnXVA57uahZK8fEPgOHE04uRb0IA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "25efdf83-90d5-4c8a-bbcc-9378f4260b47": {
+        "IsBinaryType": false,
+        "Value": "2015-04-15 16:33:33.1230000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

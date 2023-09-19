@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "5410b8b4-5cbd-4b27-8a40-ce5af4b9cb49",
+    "SchemaName": "Production",
+    "TableName": "TransactionHistory",
+    "CheckSum": "Ogk7Bkq//gd2a7t32+SpKG2vzAQHvvd/OeIfu/vqPyBIiN82EkhrLUR5V1Nn1rCNHanWtMm/dpZodmIQyIHisg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "deac86ef-9d6d-4245-b73d-9c3791c2eebf": {
+        "IsBinaryType": false,
+        "Value": "2014-08-03 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

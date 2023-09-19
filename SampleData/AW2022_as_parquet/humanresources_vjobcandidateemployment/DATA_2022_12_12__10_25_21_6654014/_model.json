@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "c6a82aa7-834e-495c-a117-ff2ab0e75a8a",
+    "SchemaName": "HumanResources",
+    "TableName": "vJobCandidateEmployment",
+    "CheckSum": "ntCy4bJR3+fDgnzAs1jKO8ETvns236aO0QMLoDVksMGN2JaIQkivbtV8A8xD+VmIsDcuMpTui8FQvIm2Ai7UXA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

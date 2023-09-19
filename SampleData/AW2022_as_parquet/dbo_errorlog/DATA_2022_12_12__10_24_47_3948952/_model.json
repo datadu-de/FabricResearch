@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "b1504208-95be-47a4-a122-18a899c3c8b8",
+    "SchemaName": "dbo",
+    "TableName": "ErrorLog",
+    "CheckSum": "CltL2RB6FPJMpbqFl9PYUFCHMWuygmzPSPsfvAbqwtYaLhQYbMtYJs0JjRr7Gq8eSr+2ZHCJn3/4rAXZ0tQS3w=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

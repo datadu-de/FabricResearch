@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "bb6f231e-ed68-4e59-8f00-aadb784fca82",
+    "SchemaName": "Person",
+    "TableName": "ContactType",
+    "CheckSum": "pX0dBlEszL+aTdyWIqCmGNBL44scwkLva6MmX7Dv2FcQQi/LTcKPu49tdgT2U7M5PGzhtdTu7JjW5qE0veW9gQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "f6a154fd-22a0-4181-963d-983ce215a743": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

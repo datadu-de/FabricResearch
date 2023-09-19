@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "ba000ba0-0bfe-4ade-babd-6eeb7e5bb025",
+    "SchemaName": "Sales",
+    "TableName": "SalesOrderHeader",
+    "CheckSum": "OmMwvohPs5CpimjFyl5dNWSv5EjMyNYhVkwLhtosDbMB7XlfK+ufEjQFExdEX+GQRm2y8SOdiaLEpGax+oVvUQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "6899b473-9cfb-40ed-a0ab-6cdee9d61351": {
+        "IsBinaryType": false,
+        "Value": "2014-07-07 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

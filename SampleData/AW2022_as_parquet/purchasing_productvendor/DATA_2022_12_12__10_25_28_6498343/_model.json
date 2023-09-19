@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "3ef957e9-cb5b-443a-868f-558422035ed6",
+    "SchemaName": "Purchasing",
+    "TableName": "ProductVendor",
+    "CheckSum": "lps45fZOkxJ22K8796oPEDTX56LWPUoiFo8Zx7O+uiMx65O9DjufZ8axbeNb6/JTyl/7tuQBulus1bHR+gG1sg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "a251c5c0-c6c1-4b14-b967-5b7fec28c68d": {
+        "IsBinaryType": false,
+        "Value": "2015-08-12 12:20:28.3430000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

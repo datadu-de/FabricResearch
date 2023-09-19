@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "68e936d5-d1e9-456f-a133-fa8be7193d05",
+    "SchemaName": "Production",
+    "TableName": "Culture",
+    "CheckSum": "toJwoiRxYoBLvF55lOzKi8w45bp7OJwUWXGOXxrgIOcsjU9O99KEUWBE0IzPwsHiZ57MF7YYSdH5HFyWXg1u9w=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "89dca408-640a-4a71-9653-0fbc82664042": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

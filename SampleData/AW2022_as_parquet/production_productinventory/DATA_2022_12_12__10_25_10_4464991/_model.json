@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "dfc56386-9d93-45b9-81df-6f83085f1879",
+    "SchemaName": "Production",
+    "TableName": "ProductInventory",
+    "CheckSum": "8TTp7cJVMSjCtOcr0wftmgqIMQYOM8GCxwWxcywmNj2dZ1aE1KNWJrLD5GCDeuDHT0+fHrZJpJI+3CcYqxrucQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "db4a252d-465f-40c3-b94b-990e279aaeb1": {
+        "IsBinaryType": false,
+        "Value": "2014-08-12 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

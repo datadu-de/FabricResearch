@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "3e1b229f-e145-4f68-8055-6aea900850fa",
+    "SchemaName": "Person",
+    "TableName": "EmailAddress",
+    "CheckSum": "SjD4d+YbLTS78zA/0aSiTf+WI3YBxo5UGBmtBUHqhfqZV0QUplffq56ZjbVfI07oYvqKjDqyRzjPpiiMy3IEAQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "6e28d6ac-e509-4d31-b084-05d03559e3d0": {
+        "IsBinaryType": false,
+        "Value": "2015-04-15 16:33:33.1230000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

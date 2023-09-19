@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "139439f7-4953-40e7-b9e8-154cf419e191",
+    "SchemaName": "Production",
+    "TableName": "WorkOrderRouting",
+    "CheckSum": "vKa8AfJPuWGCkEUYG4AwuesrFnvYBcolwGLMQkxWspj54cjVWFlxQhq9zjbtAoT2CxG9QcbfKv/Dxn1NS0Ahgg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "9a0e4b2d-154d-402e-8592-ff746f9e5bed": {
+        "IsBinaryType": false,
+        "Value": "2014-06-28 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

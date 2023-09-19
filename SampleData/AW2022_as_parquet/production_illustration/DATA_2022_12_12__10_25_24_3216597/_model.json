@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "73ad73c2-2e74-46a8-b582-8ff5b9f4335a",
+    "SchemaName": "Production",
+    "TableName": "Illustration",
+    "CheckSum": "MbB48qvDKcZm5kaRgYU3wzy7INd6YmqpUmCnsxR1eJuKXUQzsPgsfD9h3c2QOc7mupjFlxeGD0I588MOloOONg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "3ada303a-b247-46a9-bbc4-79bacef74057": {
+        "IsBinaryType": false,
+        "Value": "2014-01-09 13:06:12.0800000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

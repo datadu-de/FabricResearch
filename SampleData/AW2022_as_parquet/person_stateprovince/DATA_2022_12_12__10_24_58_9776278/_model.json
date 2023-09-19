@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "40b12842-197c-488a-9e00-85ba74fde22a",
+    "SchemaName": "Person",
+    "TableName": "StateProvince",
+    "CheckSum": "LDDMimz5ycUuqwhXk2vme/9T6W8K/Mwm+D9zS9sEdI9odKKFCQZmouv2Oskbw4CAwuYvD6cabM/1itQMrdsqGQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "1071f528-c434-4d21-9f29-e4a44894cb3e": {
+        "IsBinaryType": false,
+        "Value": "2014-02-08 10:17:21.5870000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

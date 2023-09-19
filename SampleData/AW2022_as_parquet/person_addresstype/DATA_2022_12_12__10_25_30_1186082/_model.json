@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "88c178f0-6242-4fd0-a0ab-6de9128daf7b",
+    "SchemaName": "Person",
+    "TableName": "AddressType",
+    "CheckSum": "ZOCKCCOL1R6bLDJ+nmP/4bGJVWjyHLPw8rI5uQpYOq37pMh6lII1CP7zAfAhgTznNNwpXepFwQWxeEh9aVGCyQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "2271ae03-4282-4926-8087-dd856c20143f": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

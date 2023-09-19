@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "7d50b17b-e967-4773-baf9-60bfbe0f19fa",
+    "SchemaName": "Sales",
+    "TableName": "SalesPersonQuotaHistory",
+    "CheckSum": "y7zpZKIu9xD6bqJNDmPcn69NCBxngh7x78TaOsEopYgptHelIFsoyR/NsTO4eDR6Nyr3epGPt3ugMgQFjIFDrw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "e68d9207-25a7-4892-8473-6d5e7687c330": {
+        "IsBinaryType": false,
+        "Value": "2014-01-15 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

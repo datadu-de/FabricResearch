@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "ea23fd28-5218-4047-ba63-cb59393a3f58",
+    "SchemaName": "Sales",
+    "TableName": "vStoreWithAddresses",
+    "CheckSum": "+K9qhvpHYl4NXdOm4+O/Wgi7X+WDkKoFxF/9t9i5Cf5cx2bF4ozmmYjmnNkZNB9KCNsU0zvU12y4aG09ci5b6g=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

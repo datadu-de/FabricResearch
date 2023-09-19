@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "ea7ef652-4236-4fd0-9c17-44f6ae0b0361",
+    "SchemaName": "Person",
+    "TableName": "vStateProvinceCountryRegion",
+    "CheckSum": "EOv+tivqAGYjXQQIzaVITE0UcLq1gBKWxNButxvowB7qrOWrqc5b4Nf8mcHGkaRT09ymrAPKA/FMGnvttHGW0w=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

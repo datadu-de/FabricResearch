@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "d17d3d85-ff85-4b01-a4df-9f639ecf72b1",
+    "SchemaName": "Sales",
+    "TableName": "vStoreWithDemographics",
+    "CheckSum": "sPqayr4O96xTcxCOLYmc4b1gLWRhoo9ezWmt3+47SRoENCXr3rRCTshpYj0VOpw0+rzq1jC65PmZQ+fZXyFjoQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "b10ca06c-358e-4b67-9429-ce6c73f7244f",
+    "SchemaName": "Sales",
+    "TableName": "vStoreWithContacts",
+    "CheckSum": "Qx3J3l9rkTxEU9BCSDAYqDzwHj2rKjL9SFQAFOMmrRkOkluZfzrd1AvXoRkamujKrHxDcyZ55IQGGSzFLOYH1g=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

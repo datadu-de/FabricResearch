@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "638ac078-bb0c-49fc-b9f6-305fe37221fc",
+    "SchemaName": "Purchasing",
+    "TableName": "PurchaseOrderDetail",
+    "CheckSum": "8B4MfYYTMpibHvRHaSSjCv60a19sDOcLpsjAWcHdRqarfEP4S3tgJfuXHNiArFHAk/Ik32naRf9DvSxbyaJ+3w=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "d9945dd7-3456-4d55-afaf-fdab9c96cf14": {
+        "IsBinaryType": false,
+        "Value": "2015-08-12 12:25:46.4830000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

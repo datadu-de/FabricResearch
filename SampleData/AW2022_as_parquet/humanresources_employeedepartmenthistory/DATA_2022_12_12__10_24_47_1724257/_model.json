@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "20b24f15-7e6b-44b1-8408-48d8066445e8",
+    "SchemaName": "HumanResources",
+    "TableName": "EmployeeDepartmentHistory",
+    "CheckSum": "QzKYZ0dsn/Dep8pIuVeS2N0q7wau/CFk8oSR/353FivapVr6wy6B3xW0881Xv5+nvZqtuSP6a24AnRUO7EatAg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "caf12535-712f-4551-8e28-1fba1aa5f192": {
+        "IsBinaryType": false,
+        "Value": "2013-11-13 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

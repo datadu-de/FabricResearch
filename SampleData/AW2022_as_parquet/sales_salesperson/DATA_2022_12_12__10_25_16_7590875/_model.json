@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "4d52ac9b-dcbb-4ef1-8a57-571f789551ad",
+    "SchemaName": "Sales",
+    "TableName": "SalesPerson",
+    "CheckSum": "XJteVZ2Q9xus+ia4LnSVQwGLDTz3oRR6t5SH6zOVzEF5mtvJZ2IFjNcdcqU2TeOH6o4Zs7MSpJWhHW1ZK9aHhw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "512d6cbf-aede-4500-8cc8-27babed01e9e": {
+        "IsBinaryType": false,
+        "Value": "2013-05-23 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

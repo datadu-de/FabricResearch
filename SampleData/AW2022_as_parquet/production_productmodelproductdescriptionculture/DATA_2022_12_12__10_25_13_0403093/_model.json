@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "acedd989-bca4-438e-a3d0-398fbe3eb8c4",
+    "SchemaName": "Production",
+    "TableName": "ProductModelProductDescriptionCulture",
+    "CheckSum": "9Y/aNCdwWty17i1F5jJlmxL6qfgXBJWEkQ59fsf5CBe1ecsUn9kwZY6gr2BVBlrFv2xF/UDZSyxk3udOrcm6YA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "527b3ee2-86a5-4bb5-bfc4-b82871c3d213": {
+        "IsBinaryType": false,
+        "Value": "2013-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "9d1f1594-642a-4efa-8d2a-ba26731e0f37",
+    "SchemaName": "HumanResources",
+    "TableName": "Department",
+    "CheckSum": "NhIRKsW+47L+qiXFJEdbQYeJ9HsJl93EgpTs91mhlrk8bAxvHwFVLdKAzpUGlmczP4OL1cUtDIK4zWEkwGJKVQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "330c9df1-2560-4c7d-8fbb-25ae7fd2f700": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

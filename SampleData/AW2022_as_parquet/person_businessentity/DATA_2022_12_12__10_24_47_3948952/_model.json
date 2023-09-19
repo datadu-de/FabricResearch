@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "04151609-45bc-4c1e-8cb0-dab36dbe598f",
+    "SchemaName": "Person",
+    "TableName": "BusinessEntity",
+    "CheckSum": "aUwmZw49jIzdFXaWx+5J/P0FF2rxtKqz17zQp4MzdzF03hKHIHu6mBCEY6S5YZBiATHaszNlQbDejp1PHNjMuw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "3590dd49-1bac-4b01-aa07-e95dfafb3b7e": {
+        "IsBinaryType": false,
+        "Value": "2017-12-13 13:47:22.4670000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

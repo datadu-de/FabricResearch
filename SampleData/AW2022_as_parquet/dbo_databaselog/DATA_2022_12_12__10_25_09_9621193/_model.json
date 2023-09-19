@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "dc421b85-8932-4e5f-99ad-7fa00bd392cf",
+    "SchemaName": "dbo",
+    "TableName": "DatabaseLog",
+    "CheckSum": "ETu7wS4eYJZQ9qtRs1d7HdEgeqAQkhHkjzFSEyhtGssXQDKJzgbf0VuXPVekQDS4XWZ++O5Lp8X2dcY0l7cLkA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

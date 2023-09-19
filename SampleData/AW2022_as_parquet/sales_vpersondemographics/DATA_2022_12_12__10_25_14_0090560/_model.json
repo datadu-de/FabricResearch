@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "ac9e2d96-be57-4fbf-a9b2-564e787c67b9",
+    "SchemaName": "Sales",
+    "TableName": "vPersonDemographics",
+    "CheckSum": "K0eP8ucPQ2QKx8ivw+L3d0JlujVoed04FmwFDBDqbUp8Dlze3+r2URbJ98Xsl/J75+QS0xqGuWDCybVSN8gk3g=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

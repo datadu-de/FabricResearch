@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "cda37484-47db-4e49-b170-592634ecb8f7",
+    "SchemaName": "Sales",
+    "TableName": "SalesReason",
+    "CheckSum": "Ae/m6PEAbkKAOGQAaNoPS/eapv5m2VDm9Zdy9RXZQ4yZkFLyfHTARH8P06r5C4yQKZHFDZqB9DVmJyvMt9vy5g=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "65079110-5aa8-469f-af93-1d3a014ba5b6": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

@@ -1,6 +1,6 @@
 #Install-Module Az.Storage -Repository PSGallery -Force
 
-Get-Content .env | ForEach-Object {
+Get-Content $(Join-Path -Path $(Split-Path $PSScriptRoot -Parent) -ChildPath ".env" ) | ForEach-Object {
     $name, $value = $_.split('=', 2)
     if ([string]::IsNullOrWhiteSpace($name) || $name.Contains('#')) {
         continue
@@ -19,7 +19,7 @@ $Fabric = @{
     Folder    = 'somesubfolder/ODXtest'
 }
 
-$SrcFile = './testfile2.csv'
+$SrcFile = 'SampleData/csv/testfile3.csv'
 
 
 ###############################################
@@ -30,9 +30,9 @@ $Credential = New-Object -TypeName System.Management.Automation.PSCredential -Ar
 Connect-AzAccount -ServicePrincipal -TenantId $TenantId -Credential $Credential
 
 $ctx = New-AzStorageContext `
-            -StorageAccountName 'onelake' `
-            -UseConnectedAccount `
-            -endpoint 'fabric.microsoft.com' 
+    -StorageAccountName 'onelake' `
+    -UseConnectedAccount `
+    -endpoint 'fabric.microsoft.com' 
 
 
 $DestFile = "$($Fabric.Lakehouse).$($Fabric.Itemtype)/Files/$($Fabric.Folder)/$($SrcFileName)"

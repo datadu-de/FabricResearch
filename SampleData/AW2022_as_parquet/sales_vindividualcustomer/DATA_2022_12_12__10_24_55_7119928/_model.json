@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "babb0316-e27d-4275-b37b-965a8fed413f",
+    "SchemaName": "Sales",
+    "TableName": "vIndividualCustomer",
+    "CheckSum": "ZN+VFxNYipqEsJRzYNXOhPFHeDOvEv6WGSL8UKb15rq5t0NRzGjIPL4Ba5NpOE9sv1wlQMhEwcbqdV11ngbWnA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

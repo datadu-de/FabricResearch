@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "84842fa3-9746-4dcf-9fb5-18ffb1f56116",
+    "SchemaName": "Person",
+    "TableName": "Address",
+    "CheckSum": "zMJ1L6W8dEaYoWzStJsTod4anzDQSuxRiXs8XLhrHzYxWvN0FM800gKlTsep31YVL3d7sJoBXcYNQiAHHrYmPg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "8e5b7a25-7eee-45d3-bcf6-a4987b14eba5": {
+        "IsBinaryType": false,
+        "Value": "2014-06-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

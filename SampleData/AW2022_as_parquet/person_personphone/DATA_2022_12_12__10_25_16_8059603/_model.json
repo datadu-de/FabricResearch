@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "8708d999-7b7a-4fa4-8287-5e00a2df9de8",
+    "SchemaName": "Person",
+    "TableName": "PersonPhone",
+    "CheckSum": "DJ8+bEsmr/uvfPGxS84cL6NJd0hpdzIzuK/lFfQvgAaQTwOv7tlENxREMmID+joDr+PCZ1Js/ymQQWc6IfoNNQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "b95eb66a-7c6d-4395-94ef-67c3a889b4f4": {
+        "IsBinaryType": false,
+        "Value": "2015-04-15 16:33:33.1230000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

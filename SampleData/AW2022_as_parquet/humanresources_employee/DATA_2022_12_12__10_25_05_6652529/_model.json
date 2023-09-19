@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "fcf10779-a3fb-494a-9373-0f827466a4ea",
+    "SchemaName": "HumanResources",
+    "TableName": "Employee",
+    "CheckSum": "wiH9D0dq4oE4vOJ6hvU2MbJ1gYqOiMNGW1SBfK9DN3hhP4mkBiqoMIzxWeRCOl80pTl2X1cdOthw+gHjxXMNhw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "6ffb2628-2369-4a21-a222-5f0c40202f1a": {
+        "IsBinaryType": false,
+        "Value": "2014-12-26 09:17:08.6370000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "6e5398bc-f863-4c1e-9a8e-29ae91c73aad",
+    "SchemaName": "Production",
+    "TableName": "ProductModel",
+    "CheckSum": "kbGjB1I5TyEoR3JKsokd0s1x3kaJ84RPmG0H4xOY/ycQnYVyvhBQD+Sm0fkpopy4H7RymawCgWIHtK4anjqWtQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "b8c288b7-550a-4149-94e8-ee554a563dfb": {
+        "IsBinaryType": false,
+        "Value": "2015-04-15 16:34:29.0430000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

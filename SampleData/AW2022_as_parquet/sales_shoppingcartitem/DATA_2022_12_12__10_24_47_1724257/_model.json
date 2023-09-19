@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "633f1d08-202d-4cfb-9411-e71faab07ab0",
+    "SchemaName": "Sales",
+    "TableName": "ShoppingCartItem",
+    "CheckSum": "9PqryVpv+uR2MyxGI2HMYV4/bpksXEPthAeG+Pu916wagMgEnxV8ABeM0A2qG4G+bkAZz5vHkfff7jo1xuOQ3g=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "e9dc585f-53b7-491b-ab74-2cb3c8cc26d7": {
+        "IsBinaryType": false,
+        "Value": "2013-11-09 17:54:07.6030000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

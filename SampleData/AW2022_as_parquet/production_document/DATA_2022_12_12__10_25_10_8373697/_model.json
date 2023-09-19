@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "d77ede86-1282-44a0-804e-f97c2aced200",
+    "SchemaName": "Production",
+    "TableName": "Document",
+    "CheckSum": "YPgfwlCFeIhXy4p5ZpVxglsRlRyFM+uHHSE4WvYC0sHsM707F3O6TeR0rgprxLnKUYFFG0c4KrEovlnN3e/8kg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "6d4926dc-7656-40ab-9fb8-ed7fc689fadb": {
+        "IsBinaryType": false,
+        "Value": "2017-12-13 13:58:04.0370000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

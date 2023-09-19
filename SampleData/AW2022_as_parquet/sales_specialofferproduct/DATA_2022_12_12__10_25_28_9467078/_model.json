@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "9b8abbe9-24ad-462f-b4e4-d389601f3691",
+    "SchemaName": "Sales",
+    "TableName": "SpecialOfferProduct",
+    "CheckSum": "yej6CVaWGfCuL1UPhLSJKVwUMz1UPrk+5OQW/wI2/WZ5LF2U9YypYyOvyGWPHTuKc42MbPLqa7G3OyYU13ZObg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "7e040df6-46e1-42df-a066-d86eccfa15ad": {
+        "IsBinaryType": false,
+        "Value": "2014-03-01 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

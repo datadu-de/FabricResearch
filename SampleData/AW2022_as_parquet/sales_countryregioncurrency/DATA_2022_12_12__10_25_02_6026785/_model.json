@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "da8bd663-8b50-4948-9919-7c77b591e192",
+    "SchemaName": "Sales",
+    "TableName": "CountryRegionCurrency",
+    "CheckSum": "guc76A8+WToHzcL7vXg3R8GR8AtyPLQYpLFuz6XrFtqww+s/gb6ZVDrkYJAw4INY/bTlVniE2bdf9G+HaAaG9Q=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "0234c1c3-9f65-469f-9fae-9751cac1de70": {
+        "IsBinaryType": false,
+        "Value": "2014-02-08 10:17:21.5100000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "e6384c72-5f67-4756-959e-becca0f9b467",
+    "SchemaName": "Person",
+    "TableName": "Password",
+    "CheckSum": "qCAlJVV8K1b1GIu2gxTrdO3HssFx2StL7xJcixYsvHkuD17EKJFTaOVQ6iL8sfqLhMuqwDmioWd+WcP7z7WUVA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "9a40e1b4-2f1a-41f1-9e6b-2221e0827191": {
+        "IsBinaryType": false,
+        "Value": "2015-04-15 16:33:33.1230000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

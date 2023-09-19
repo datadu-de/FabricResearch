@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "88c9ce58-f382-480b-a42d-bf3dfecab19b",
+    "SchemaName": "Purchasing",
+    "TableName": "vVendorWithContacts",
+    "CheckSum": "uayNAvMsPtgacog7ZrKhqJlbnNLBsTm8p1/hCrV9FlYs+EN+kZ/lzuykNz00LSlsUAOef1voN26WqT8qUFY/GQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "74d13579-4c02-4446-8576-6be52b32869b",
+    "SchemaName": "Person",
+    "TableName": "CountryRegion",
+    "CheckSum": "dOFtiyQ7gfMP0RkdVNdjequ6ulldmgDJhGEW7mq/6qyRCEvOhyhMm6Ycf/qPx5unZEcR25GonuRFeDexF8zLOw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "12ad2f32-7c3c-4185-a2ed-b9e65f0d291c": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

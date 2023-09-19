@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "d4967e87-63b8-455e-9940-bf427f026a2b",
+    "SchemaName": "Production",
+    "TableName": "WorkOrder",
+    "CheckSum": "85T7uI2J5Q4IGu9M6L7+QJ7X+kK46RrzTL6Nz1ao7TiJukVK5iBwvw7cnmt13aXnzztNXB3cY74vIOjo9CPHWg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "5b654602-79b9-4fce-8661-2492254c5eac": {
+        "IsBinaryType": false,
+        "Value": "2014-06-17 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

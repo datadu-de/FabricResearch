@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "a7b6c61b-c2c2-4ab9-8609-34c3dc98612b",
+    "SchemaName": "HumanResources",
+    "TableName": "vJobCandidate",
+    "CheckSum": "R/R8i4eRfWp6esZUlm22+7ZY+l6V4GpqHH94r9lOBDsqtD0RFvyzWcCmu/hjGW6VlmDhc1wkcnC3Om5qk61YvA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "aa592ccf-8be0-48cf-9d82-42aaefff04eb": {
+        "IsBinaryType": false,
+        "Value": "2013-12-22 18:32:21.3130000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

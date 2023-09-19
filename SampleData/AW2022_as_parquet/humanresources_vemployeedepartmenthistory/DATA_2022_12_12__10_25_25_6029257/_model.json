@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "4d39f7c2-5928-40d2-a69a-be68aff706e9",
+    "SchemaName": "HumanResources",
+    "TableName": "vEmployeeDepartmentHistory",
+    "CheckSum": "PiJA4qTNbKpDkxAsD+Fqw7hP6JkVLrYfBjKzbKzTCWnXhbnlXsI/tGu+Ova6R2hn/oGxEsJCnEwAunqHbUGLIQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "19d4ee1e-844b-47d7-a7e2-ce91d21a77cc",
+    "SchemaName": "Production",
+    "TableName": "ScrapReason",
+    "CheckSum": "oDbCIurrQN48L7d5EcKN38/SDJIytsk2IK2nlRK7WNgUqOXGDtp34v5oIZz5Jx7xOLPD4cZ5/crg1jU0gaDiVQ=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "5fbbb0cc-e08a-41bb-ba69-77024ce6343b": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

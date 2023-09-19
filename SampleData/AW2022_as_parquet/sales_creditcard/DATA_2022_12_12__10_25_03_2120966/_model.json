@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "a7df236a-9a92-4c17-b57f-0db9ddf8b2f8",
+    "SchemaName": "Sales",
+    "TableName": "CreditCard",
+    "CheckSum": "C+1oE1vgD6EvVLlVSFJOepJc0D++pdDZ9J0df5vEWOlv8HPGY+++ccNSkuVMozUDlby2gZ9FMDScULHFFYEGAg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "3ab995e2-fdad-46a7-b648-bdb13256e415": {
+        "IsBinaryType": false,
+        "Value": "2014-06-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

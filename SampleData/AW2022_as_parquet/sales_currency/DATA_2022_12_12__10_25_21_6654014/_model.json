@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "75e30fb0-7c9e-44b9-84c5-e6b1806ab956",
+    "SchemaName": "Sales",
+    "TableName": "Currency",
+    "CheckSum": "hfgrvR0xivYNUEoF5aLXALttzWNHFo0nQCfgCIoxivD8Ee9idJM/S8k8fyyVthZhxtN1U/DZK7BKz05xcy+vEw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "1144d758-3c60-4bd5-8bcf-cbafff88bc35": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

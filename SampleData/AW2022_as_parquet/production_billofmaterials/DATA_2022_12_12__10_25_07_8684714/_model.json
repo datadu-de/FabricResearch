@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "5f71a07e-7240-461e-ad71-13d0782b59a6",
+    "SchemaName": "Production",
+    "TableName": "BillOfMaterials",
+    "CheckSum": "VAZKf/+SOPlbn9+XaPYbbmgpVppjrckuDghcoCrCL5mJGbbp0ENhiZbpS9uyI/AQSN3wk0nyNM1Ss3M8mB+UeA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "ca272b20-9b46-4b82-a9a2-629123aece1d": {
+        "IsBinaryType": false,
+        "Value": "2010-12-09 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

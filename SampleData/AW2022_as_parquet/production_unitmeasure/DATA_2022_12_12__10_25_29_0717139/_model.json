@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "edb97eea-16cf-489d-9279-6495302bb4c3",
+    "SchemaName": "Production",
+    "TableName": "UnitMeasure",
+    "CheckSum": "9nby2MVAN/F2tgSbRDMHL9jbbw5jmQLXZHUFHWbzSc7M5LFZ3BxBK10reRsaVY4IXAoWSqXN3ypYgVWzxHYfAA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "800e8fca-680a-450c-bcae-c74961733a60": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

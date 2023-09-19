@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "2f0f17d6-3a1a-4d5b-a31d-277a4716427b",
+    "SchemaName": "Sales",
+    "TableName": "SalesTaxRate",
+    "CheckSum": "Uhc991PCzfK0R1mZd3P6nVAka64wLKZTNhd7braL93oJ+u33MhX3/2AFpIsRhVI2wvEInPHO+9LS5FQPOflMtA=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "ea3fb9c2-c5d8-4fd2-903a-7335c4b9958b": {
+        "IsBinaryType": false,
+        "Value": "2008-04-30 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

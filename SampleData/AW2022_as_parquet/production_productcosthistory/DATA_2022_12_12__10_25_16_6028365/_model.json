@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "919e9b9a-12c8-4b4d-8d1c-74d4390b5b3c",
+    "SchemaName": "Production",
+    "TableName": "ProductCostHistory",
+    "CheckSum": "kL6iVWVIVAOgpWEaRxTgWbHpwHne3Jdx6/KdTy9e95geWSz6+DvboTgAEeprw+IByCvqiz1sFYQ6qwphpHCJzw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "61fd1a22-f4a2-4534-89a2-9b7e8528f6e3": {
+        "IsBinaryType": false,
+        "Value": "2013-05-29 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}

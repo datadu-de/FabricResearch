@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "ada17ffb-d159-4304-9cc1-85ad3ac1e952",
+    "SchemaName": "Sales",
+    "TableName": "vSalesPerson",
+    "CheckSum": "LX2Ye+sp9M1lVoPrAoPbQbz007YMZpJo1ge7pl2RJc6XrsIOpQkI7GXQUjWzzmXDTaW0JRUC34J2+qeqIqXXXg=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {},
+    "ExtendedProperties": {}
+  }
+}

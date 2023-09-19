@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "MetaData": {
+    "TableId": "90a77907-795a-42d1-b355-67abc36e063f",
+    "SchemaName": "Production",
+    "TableName": "ProductReview",
+    "CheckSum": "tHI9RatvtbtTSnZ/MJ81YKzGPkyGMQGFry/C06n5IbFIvMrhyYDuUPK7x5PP5RcynR73ZN7NG8pzN4sNDNqSDw=="
+  },
+  "DataProfile": {
+    "BatchNumber": 0,
+    "HandleDeletes": false,
+    "IncrementalMaxValues": {
+      "fd6ddfa0-5efb-42e9-852c-22a92d63ec8b": {
+        "IsBinaryType": false,
+        "Value": "2013-11-15 00:00:00.0000000"
+      }
+    },
+    "ExtendedProperties": {}
+  }
+}
